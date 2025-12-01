@@ -6,7 +6,7 @@ public class Usuario {
     private String telefone;
     private String endereco;
 
-    public Usuario() {} // Obrigatório
+    public Usuario() {}
 
     public Usuario(String nome, String email, String telefone, String endereco) {
         this.nome = nome;

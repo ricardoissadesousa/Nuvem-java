@@ -1,7 +1,9 @@
 package com.example.nuvemjava.controller;
 
-import com.exemplo.firebase.model.Usuario;
-import com.exemplo.firebase.service.UsuarioService;
+
+import com.example.nuvemjava.model.Usuario;
+import com.example.nuvemjava.service.UsuarioService;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
